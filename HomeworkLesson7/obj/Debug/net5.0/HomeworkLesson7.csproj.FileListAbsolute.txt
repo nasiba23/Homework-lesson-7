@@ -1,0 +1,16 @@
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\bin\Debug\net5.0\HomeworkLesson7.exe
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\bin\Debug\net5.0\HomeworkLesson7.deps.json
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\bin\Debug\net5.0\HomeworkLesson7.runtimeconfig.json
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\bin\Debug\net5.0\HomeworkLesson7.runtimeconfig.dev.json
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\bin\Debug\net5.0\HomeworkLesson7.dll
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\bin\Debug\net5.0\ref\HomeworkLesson7.dll
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\bin\Debug\net5.0\HomeworkLesson7.pdb
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\obj\Debug\net5.0\HomeworkLesson7.csprojAssemblyReference.cache
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\obj\Debug\net5.0\HomeworkLesson7.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\obj\Debug\net5.0\HomeworkLesson7.AssemblyInfoInputs.cache
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\obj\Debug\net5.0\HomeworkLesson7.AssemblyInfo.cs
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\obj\Debug\net5.0\HomeworkLesson7.csproj.CoreCompileInputs.cache
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\obj\Debug\net5.0\HomeworkLesson7.dll
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\obj\Debug\net5.0\ref\HomeworkLesson7.dll
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\obj\Debug\net5.0\HomeworkLesson7.pdb
+C:\projects\HomeworkLesson7Sln\HomeworkLesson7\obj\Debug\net5.0\HomeworkLesson7.genruntimeconfig.cache
